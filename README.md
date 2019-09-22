@@ -1,3 +1,2 @@
 # learn
-study hard
-hello world
+ study hard
